@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jakarta-oro.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/struts.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/struts-1.2.9-src.zip"/>
+	<classpathentry kind="lib" path="lib/geronimo-jsp_2.0_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-servlet_2.4_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/h2-1.1.118.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ibatis-2.3.4.726.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/ibatis-2.3.4.726-src.zip"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/ibatis-dao-2.jar" sourcepath="src/main/webapp/WEB-INF/lib/sources/ibatis-dao-2-src.zip"/>
+	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
+</classpath>
